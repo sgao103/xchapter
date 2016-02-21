@@ -1,0 +1,9 @@
+#Dependency Directories
+node_modules/
+bower_components/
+
+#Misc Files
+.DS_Store
+
+#Logs
+*.log
